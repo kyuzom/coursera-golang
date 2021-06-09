@@ -1,15 +1,14 @@
 # Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-
-# Test binary, built with `go test -c`
-*.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
+cmd/hello-world/hello-world
+cmd/findian/findian
+cmd/trunc/trunc
+cmd/slice/slice
+cmd/makejson/makejson
+cmd/read/read
+cmd/bubblesort/bubblesort
+cmd/displacement/displacement
+cmd/animals/animals
+cmd/polyanimals/polyanimals
+cmd/twogorout/twogorout
+cmd/concurrent-sort/concurrent-sort
+cmd/dining-philosophers/dining-philosophers
